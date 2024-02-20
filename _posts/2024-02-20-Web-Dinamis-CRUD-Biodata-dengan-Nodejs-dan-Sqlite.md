@@ -29,5 +29,6 @@ npm install express sqlite3 ejs
 ### 4. New terminal, ketikkan kode node app.js
 ### lalu cari di google http://localhost:3000
 ### 5. Hasil sebagai berikut:
+![assets](/assets/web-dinamis-hasil-biodata-siswa.PNG)
 
 
