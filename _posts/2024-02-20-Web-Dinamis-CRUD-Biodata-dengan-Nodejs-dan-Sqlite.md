@@ -13,5 +13,20 @@ npm install express sqlite3 ejs
 ![assets](/assets/appjs2.PNG)
 ![assets](/assets/appjs3.PNG)
 ### 3. Buat folder views
+#### - kode tambah.ejs
+  
+![assets](/assets/tambahsiswa.PNG)
+
+#### - kode edit.ejs
+  
+![assets](/assets/editsiswa.PNG)
+
+#### - kode index.ejs
+  
+![assets](/assets/indexsiswa1.PNG)
+![assets](/assets/indexsiswa2.PNG)
+
+### 4. New terminal, ketikkan kode node app.js
+### lalu cari di google http://localhost:3000
 
 
