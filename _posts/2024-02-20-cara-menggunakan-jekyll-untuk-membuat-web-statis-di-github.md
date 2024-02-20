@@ -30,6 +30,9 @@ Setelah beberapa saat, situs web Anda akan dapat diakses di URL yang disediakan 
 
 Itu adalah langkah-langkah dasar untuk membuat situs web statis menggunakan Jekyll dan meng-hostingnya di GitHub Pages. Anda dapat menyesuaikan tema, menambahkan halaman, atau melakukan penyesuaian lainnya sesuai kebutuhan proyek Anda.
 
+## Hasil Praktek
+![assets](/assets/hasil-praktek-web-dinamis.PNG)
+
 
 
 
