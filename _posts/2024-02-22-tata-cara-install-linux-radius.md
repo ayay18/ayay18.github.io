@@ -13,3 +13,4 @@ silahkan di ikuti dengan baik dan seksama ya teman-teman ku... i love you
 #### Bapak inilah hasil akhirnya, saya tidak tahu apa permasalahannya, tadi dipanggail-panggil tapi bapak bilang nanti dulu jadi seperti inilah jadinya, teman-teman yang lain sudah mencoba untuk membantu tapi hasilnya nihil tetap saja sama. sekian dan terimagaji 😿.
 
 > # THANKYOU
+> # SALAM SEJAHTERA DARI KELOMPOK 7 
