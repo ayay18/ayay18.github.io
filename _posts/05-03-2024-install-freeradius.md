@@ -1,4 +1,4 @@
 ---
 ---
 # errror
-![assets](/assets/error.PNG)
+![assets](/assets/install.PNG)
