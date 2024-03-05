@@ -1,3 +1,4 @@
 ---
 ---
-hasil praktek freeradius ukk 2
+## hasil praktek freeradius ukk 2
+![assets](/assets/installfreeradius.jpeg)
