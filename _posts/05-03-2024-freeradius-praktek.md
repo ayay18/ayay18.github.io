@@ -1,4 +1,4 @@
 ---
 ---
 # error-ee
-![assets](/assets/error-eee.PNG)
+![assets](/assets/freeradius.PNG)
